@@ -1,0 +1,3 @@
+D:/desktop/labs/CMakeFiles/lc3simulator.dir
+D:/desktop/labs/CMakeFiles/edit_cache.dir
+D:/desktop/labs/CMakeFiles/rebuild_cache.dir
